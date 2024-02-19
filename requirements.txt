@@ -1,0 +1,9 @@
+pandas
+numpy
+langchain
+python-dotenv
+gradio
+tqdm
+openai
+chromadb
+tiktoken
